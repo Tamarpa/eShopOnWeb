@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 0774a48b-bb13-402d-a466-a188487982de
   WEBAPP-NAME: eshoponweb-webapp-TAMAR
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
